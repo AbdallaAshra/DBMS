@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diabates_clustring">الاعتناء بمريض السكر</string>
+    <string name="wellcome_in_your_home">مرحبا بك في منزلك</string>
+    <string name="meals">الوجبات</string>
+    <string name="doctor">الطبيب</string>
+    <string name="gear">الاعدادات</string>
+    <string name="home">الصفحه الرئيسيه</string>
+    <string name="setting">الاعدادات</string>
+    <string name="brief">الاختصارات</string>
+    <string name="profile">الصفحه الشخصيه</string>
+    <string name="diabetes_clustering">مريض السكر</string>
+</resources>

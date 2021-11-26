@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">DBMS</string>
+    <string name="todo" translatable="false">TODO</string>
+
+    <string name="diabates_clustring">Diabetes Clustering</string>
+    <string name="wellcome_in_your_home">Welcome in Your Home</string>
+    <string name="meals">Meals</string>
+
+    <string name="doctor">Doctor</string>
+    <string name="gear">Gear</string>
+    <string name="home">Home</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="brief">Brief</string>
+    <string name="profile">Profile</string>
+    <string name="diabetes_clustering">Diabetes Clustering</string>
+    <string name="www_diabetes_clustering_com" translatable="false">www.diabetes_clustering.com</string>
+
+    <string name="navigation_drawer_open" translatable="false">open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">close navigation drawer</string>
+</resources>

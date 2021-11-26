@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/home"
+            android:icon="@drawable/house"/>
+        <item
+            android:id="@+id/setting"
+            android:title="@string/setting"
+            android:icon="@drawable/gear"/>
+        <item
+            android:id="@+id/doctor"
+            android:title="@string/doctor"
+            android:icon="@drawable/heal"/>
+        <item
+            android:id="@+id/meals"
+            android:title="@string/meals"
+            android:icon="@drawable/dinner"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="@string/brief">
+        <menu>
+        <item
+            android:id="@+id/home2"
+            android:title="@string/home"
+            android:icon="@drawable/house"/>
+        <item
+            android:id="@+id/setting2"
+            android:title="@string/setting"
+            android:icon="@drawable/gear"/>
+        <item
+            android:id="@+id/doctor2"
+            android:title="@string/doctor"
+            android:icon="@drawable/heal"/>
+        <item
+            android:id="@+id/meals2"
+            android:title="@string/meals"
+            android:icon="@drawable/dinner"/>
+        </menu>
+        </item>
+    </group>
+    <item android:title="@string/profile">
+            <menu>
+                <item android:title="@string/meals"
+                    android:icon="@drawable/dinner"/>
+                <item android:title="@string/doctor"
+                    android:icon="@drawable/doctor"/>
+            </menu>
+        </item>
+
+</menu>
